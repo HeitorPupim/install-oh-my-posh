@@ -35,3 +35,9 @@ In this example, im using **capr4n** theme, but you can change inserting its nam
 To change how the theme look, you can change the .json file.
 
 To open it, just go to ``` cd ~/.poshthemes/```, open the file and edit its configs, colors, etc.
+
+Tip: You can clone my repository on your machine and add the file ``` HeitorPupim.omp.json```to your theme folder and appy it. It will look like this:
+
+![image](https://user-images.githubusercontent.com/50893051/184648735-5ac797d8-9051-4bb7-8ba0-ba1c26e12817.png)
+
+
